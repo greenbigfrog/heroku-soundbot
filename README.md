@@ -32,8 +32,7 @@ APPID=85322359235
 2.
 3. Head to the Apps settings and add follwoing buildpacks:
 ```
-https://github.com/ddollar/heroku-buildpack-apt
 https://github.com/heroku/heroku-buildpack-ruby
-https://github.com/envato/heroku-buildpack-libsodium.git
+https://github.com/challengee/heroku-buildpack-libsodium.git
 https://github.com/HYPERHYPER/heroku-buildpack-ffmpeg.git
 ```
