@@ -1,6 +1,8 @@
 
 require 'bundler/setup'
 
+::RBNACL_LIBSODIUM_GEM_LIB_PATH="#{File.dirname(__FILE__)}/lib/libsodium.so"
+
 require 'dotenv'
 Dotenv.load
 
