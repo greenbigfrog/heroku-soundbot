@@ -1,3 +1,6 @@
+# THIS DOES NOT WORK ATM!
+
+
 # Very Simple Bot to explain you how to set up a discordrb bot on Heroku
 
 ## Sign up
